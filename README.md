@@ -2,7 +2,6 @@
 - 👀 Intelligence artificielle, Database
 - 🌱 En cours d'apprentissage de Godot, rust & dev blockchain
 - 💞️ Collaboration active au projet Stigmee :)
-- 📫 How to reach me ...
 
 <!---
 steacktartar/steacktartar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
