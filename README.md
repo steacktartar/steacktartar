@@ -1,7 +1,7 @@
-- 👋 Salut c'est @steacktartar (aka alain)
-- 👀 Intelligence artificielle, Database
-- 🌱 En cours d'apprentissage de Godot, rust & dev blockchain
-- 💞️ Collaboration active au projet Stigmee :)
+- 👋 Hey! it's @steacktartar (aka alain)
+- 👀 AI, Oracle, and other stuff
+- ✨ Coding mostly in Python and C++
+- 🌱 Learning Godot, rust & blockchain dev
 
 <!---
 steacktartar/steacktartar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
